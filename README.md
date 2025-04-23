@@ -2,7 +2,7 @@
 - 👀 I’m interested in website and app development.
 - 🌱 I’m currently learning React and Next JS
 - 💞️ I’m looking to collaborate on anything I get time to commit to.
-- 📫 Visit cnandrews.com or email enquiries@cnandrews.com
+- 📫 Visit https://cnandrews.com or email enquiries@cnandrews.com
 - ⚡ Fun fact: 
 
 <!---
